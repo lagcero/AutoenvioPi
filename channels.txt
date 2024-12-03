@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-zsñvlijfv,mlad
-8001/1:0:19:7508:420:1:c00000:0:0:0:
-stover-wp
+
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA
 acestream://fxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxfxsfxxfxfxfxfxfxfxfxfxfxfx
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio
